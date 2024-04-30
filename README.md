@@ -39,3 +39,15 @@ DirectHands:
 - played_hands are arranged as below order. Than, append back into the Shoe.
 	played_hands = [dealer_hand + reversed(stay_hands) + direct_hands]
 
+
+===================================
+
+There are 3 scpects of the game
+1. Shoe
+2. Table
+3. Rack
+
+
+OutPut:
+Player1 = [x,y,z] = sum
+Dealer = [x]
