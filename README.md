@@ -44,7 +44,7 @@ DirectHands:
 
 There are 3 aspects of the game
 	1. Shoe: Initially, Six Decks of cards, randomly shuffled are loaded here
-	2. Table: deal 2 cards to players and 1 card to dealr. Then, play according to Dealer's first card
+	2. Table: deal 2 cards to players and 1 card to dealer. Then, play according to Dealer's first card following the BlackJack Basic Strategy.
 	3. Rack: Played cards are chucked in here, then appended back to the Shoe in every round
 
 
